@@ -1,0 +1,20 @@
+{
+  "name": "nclear",
+  "version": "0.0.1",
+  "description": "Nodejs terminal clear",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "blabla@blala"
+  },
+  "keywords": [
+    "nodejs",
+    "console",
+    "clear"
+  ],
+  "author": "Abdullah Mara zull.mara00@gmail.com",
+  "license": "ISC"
+}
